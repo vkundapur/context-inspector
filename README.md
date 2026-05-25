@@ -2,6 +2,8 @@
 
 This extension adds the `/context` command.
 
+![Context Inspector preview](./context-preview.png)
+
 ## What it shows
 
 The inspector is a read-only snapshot of the current Pi session. It groups the current state into sections:
