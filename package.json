@@ -11,6 +11,10 @@
     "lint:watch": "tsc -p tsconfig.json --noEmit --watch",
     "check": "npm run lint"
   },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
   "devDependencies": {
     "@types/node": "^22.15.29",
     "typescript": "^5.8.3",
