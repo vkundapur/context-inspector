@@ -1,8 +1,17 @@
 {
-  "name": "context-inspector",
+  "name": "@vkundapur/context-inspector",
   "version": "0.1.0",
   "private": false,
   "keywords": ["pi-package"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkundapur/context-inspector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vkundapur/context-inspector/issues"
+  },
+  "homepage": "https://github.com/vkundapur/context-inspector#readme",
+  "license": "MIT",
   "pi": {
     "extensions": ["./index.ts"]
   },
