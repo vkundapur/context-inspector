@@ -1,6 +1,6 @@
 # Context Inspector
 
-This extension adds the `/context` command.
+This extension adds the `/context` command which displays a map of the current session context. Gives a rough break up of what is taking up the context.
 
 ![Context Inspector preview](./context-preview.png)
 
